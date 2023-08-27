@@ -9,8 +9,6 @@
 
 ## Contact:
 
-<div> 
-  <a href = "mailto:contato.dev.fontenelle@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>&nbsp;&nbsp;
+<h3>dev.fontenelle@gmail.com</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
