@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="center"><i>Hello! My name is Fabricio Fontenele!</i></h2>
+<h3 align="center"><i>I'm excited to share my work and programming learning.</i></h3>
+<h3 align="center"><i>I become an admirer a programming enthusiast and am committed to learning and growing in the world of web development.</i></h3>
+<h3 align="center"><i>My journey just started, but I'm excited to share my achievements and projects.</i></h3>
+<h3 align="center"><i>I believe that technology can transform the world and I am determined to do my part.</i></h3>
+<h3 align="center"><i>And this is where I'll share information about my projects, skills and journey as a developer.</i></h3>
 
-<!--
-**Devfontenelle/Devfontenelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Here are some ideas to get you started:
+## Contact:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href = "mailto:contato.dev.fontenelle@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>&nbsp;&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
