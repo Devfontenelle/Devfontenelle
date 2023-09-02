@@ -1,3 +1,5 @@
+<img width=100% src="https://github.com/Devfontenelle/Devfontenelle/assets/141387580/897656d1-7373-4dc3-bc97-06c861cd923c"/>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 <h2 align="center"><i>Hello! My name is Fabrício Fontenele!</i></h2>
